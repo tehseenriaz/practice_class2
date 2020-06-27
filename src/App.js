@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   return (
-    <div> Hello word From Tehseen
+    <div> Hello world from me
     </div>
   );
 }
